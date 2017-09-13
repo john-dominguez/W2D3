@@ -24,5 +24,4 @@ describe Hanoi do
       hanoi.won?
     end
   end
-
-  end
+end
